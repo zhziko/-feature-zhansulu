@@ -1,10 +1,11 @@
 Team members (add yourself below on your branch):
-Masha pilot
+
 - Instructor: A. Issabek (organizer)
 
 MNR 131
 Sevilya, pilot
 Kalbinur Engineer 
+Masha pilot
 
 
 Sofy — the Dream Architect
